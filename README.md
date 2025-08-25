@@ -17,5 +17,7 @@ A minimal yet powerful proof-of-concept demo for two-factor authentication using
 - Prefer hardware wallets for maximum security.
 - Rotate honeytoken options periodically.
 
-
-*For learning and demo purposes. Use at your own risk.*
+> [!NOTE]
+> Addresses & Keys: <p> The `CONTRACT_ADDRESS` in `config.py` and any private keys or test account references are placeholders for demonstration only. Always use your own smart contract deployment, endpoints, ABI, and private keys when setting up this POC. Never commit secrets to the repository. </p>
+> Security: <p> This project is for internal concept demonstration only. The randomness/shuffling logic in Solidity is not suitable for production; a secure VRF or oracle is required for real deployments. Never use real funds or production accounts with this prototype. </p>
+> Notifications: <p> Email and Slack integrations require your own configuration and credentials. </p>
