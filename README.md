@@ -3,6 +3,8 @@
 # HSC-2FA
 Honeytoken Driven Smart Contract 2FA Implementation
 
+## [Additional Documentation](https://x0prc.github.io/notes/Notes/Published-Documentation/HSC-2FA)
+
 A minimal yet powerful proof-of-concept demo for two-factor authentication using honeytokens (decoy credentials/actions) and blockchain smart contracts, fully operated via the terminal/CLI. Selecting a decoy triggers real-time alerts for enhanced security in sensitive cloud or administrative environments.
 
 ## Features
